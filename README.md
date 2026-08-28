@@ -10,7 +10,7 @@ The project uses machine learning to understand the relationship between product
 https://ee314b0e55784a5066.gradio.live/
 
 > The live demo is hosted from Google Colab and is available while the Colab runtime and Gradio session are active.
-
+this link is only for few days.
 ---
 
 ## 🎯 Project Objective
